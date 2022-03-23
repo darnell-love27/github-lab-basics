@@ -1,5 +1,1 @@
-
-clear
-exit
-clear
-
+Hello World
