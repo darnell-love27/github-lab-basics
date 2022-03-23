@@ -1,3 +1,2 @@
-
-def gitHub():
-  return 'GitHub is cool!'
+def helloWorld():
+  return 'Hello World!'
